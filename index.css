@@ -1,0 +1,48 @@
+h4{
+    font-style: italic;
+    font-size: 35px;
+}
+
+h2{
+    font-style: italic; 
+    
+}
+
+h1{
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+}
+.loading{
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 38px; 
+    color: rgb(222, 144, 18);
+}
+
+.back{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 55px;
+    font-size: 20px;
+    
+}
+
+#foodpara{
+    padding: 25px;
+    background-color: #026451;
+    color: #ffffff;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
